@@ -1,0 +1,6 @@
+/map.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=300
+/gallery/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=300
